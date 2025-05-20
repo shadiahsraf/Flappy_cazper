@@ -32,15 +32,6 @@ A simple Flappy Bird-style game developed using Python and Pygame as a personal 
 3.Open a terminal or command prompt in the project folder.
 
 4.Run the main file:python main.py
-========================================================================
-Project Structure:
-flappy-bird-game/
-├── main.py
-├── assets/
-│   ├── bird.png
-│   ├── background.png
-│   ├── pipe.png
-│   └── flap.wav
-└── README.md
+
 
 
